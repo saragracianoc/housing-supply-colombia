@@ -77,9 +77,3 @@ Todas las fuentes provienen de datos abiertos del DANE y el MVCT:
     ├── rango_precio.csv
     └── indice_precio_vivienda.csv
 ```
-
-## Qué falta y qué mejoraría
-
-- La medida DAX para porcentaje de cada tipo de subsidio sobre el total de unidades quedó en desarrollo. El reto es que el denominador debe recalcularse dinámicamente según el contexto de filtro activo (ciudad, año, trimestre), y la combinación de filtros simultáneos generaba resultados incorrectos.
-- Un análisis de correlación con rezago temporal (licencias en año *t* vs. unidades construidas en año *t+1* o *t+2*) fortalecería la hipótesis del lag de ejecución, pero requiere más años de datos para tener significancia estadística con solo 5 años disponibles.
-- El diagrama entidad-relación exportado desde draw.io no está incluido en este repositorio todavía.

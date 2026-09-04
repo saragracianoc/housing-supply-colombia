@@ -2,7 +2,7 @@
 
 Análisis del mercado de vivienda nueva en cinco ciudades colombianas (Bogotá, Medellín, Cali, Cartagena y Barranquilla) para evaluar la dinámica entre licencias de construcción, unidades efectivamente construidas, rangos de precio y distribución por tipo de subsidio (VIS, VIP, No VIS).
 
-El proyecto responde a una necesidad del Gobierno Nacional de contar con una base de datos integrada que permita comparar el comportamiento histórico de la oferta de vivienda entre ciudades, detectar patrones temporales y evaluar políticas de vivienda existentes.
+Hipotéticamente, el proyecto responde a una necesidad del Gobierno Nacional de contar con una base de datos integrada que permita comparar el comportamiento histórico de la oferta de vivienda entre ciudades, detectar patrones temporales y evaluar políticas de vivienda existentes.
 
 ## Pregunta de negocio
 
